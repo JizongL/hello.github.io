@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stepbystep  
 A jekyll theme, simple and clear, compatible with PC iPad and Phone (RWD)
 
@@ -57,3 +58,7 @@ visit [jokinkuang.github.io](http://jokinkuang.github.io)
 ## License  
 Under The [MIT](https://tldrlegal.com/license/mit-license) License
 
+=======
+# python.github.io
+python study blog
+>>>>>>> ab29040f30b08c08ee30b0e95ff6f9e972baee87
